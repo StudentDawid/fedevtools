@@ -29,8 +29,8 @@
    1. `git config --global user.name “Imie Nazwisko”`
    2. `git config --global user.email testowy@email.pl`
 9. Czytanie configu:
-   3. `git config --get user.name`
-   4. `git config --get user.email`
+   1. `git config --get user.name`
+   2. `git config --get user.email`
 
 ## Przydatne linki
 

@@ -9,9 +9,10 @@
 7. Dodaj nowy plik używając konsoli, używając `echo`
 8. Dodaj dwa nowe foldery, w każdym stwórz po jednym pliku. Razem w folderze głównym masz mieć 3 pliku i 2 foldery
 9. Wypuszuj swoje zmiany na repozytorium z początku zadania, używajć instrukcji na stronie GITHUBa:
+   1. git add .
    1. git commit -m "first commit"
-   2. git remote add origin <ADRES_REPOZYTORIUM_GITA>
-   3. git push -u origin master
+   1. git remote add origin <ADRES_REPOZYTORIUM_GITA>
+   1. git push -u origin master
 
 ## Przydatne komendy
 
@@ -21,3 +22,4 @@
 4. Przejście do folderu wyżej - `cd ..`
 5. Zmiana dysku - `<LITERA_DYSKU>:` np. `D:`
 6. Stworzenie pliku w konsoli i dodanie do niego tekstu - `echo <JAKIS_TEKST> > <NAZWA_PLIKU>` np. `echo dzien dobry > hello.txt`
+7. Stworzenie nowego folderu - `mkdir <NAZWA_FOLDERU>`, np. `mkdir testowyProjekt`
